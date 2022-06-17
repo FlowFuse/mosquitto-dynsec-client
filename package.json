@@ -1,0 +1,19 @@
+{
+  "name": "@flowforge/mosquitto-dynsec-client",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "mosquitto",
+    "security",
+    "mqtt"
+  ],
+  "author": {
+    "name": "FlowFlow Inc."
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "async-mqtt": "^2.6.2"
+  }
+}
